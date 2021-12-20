@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-size: 100% 100%;
+	background-position: center center;
+	overflow: hidden;
+	border:1px solid blue;
+}
+#click{
+	margin-top: 400px;
+	width: 140px;
+	height:86px;
+	boder:1px solid #0000ff;
+	background: url("../image/reseive.png");
+	background-position: center;
+	background-size:100% 100%;
+	box-shadow: 2px 2px 2px #ff5592;
+}
